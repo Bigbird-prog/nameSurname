@@ -9,6 +9,7 @@ body{
     place-items: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 4px;
+    background-repeat: no-repeat;
 }
 .card2{
     padding-left: 170px;
@@ -49,7 +50,6 @@ body{
     padding-left: 15px;
     margin-left: 30px;
     left: auto;
-    
    margin: 10px;
    border-radius: 20px;
    backdrop-filter: blur(15px);
@@ -63,6 +63,7 @@ body{
     position: relative;
     background-color: rgb(212, 15, 166);
     padding-left: 30px;
+    padding-right: 120px;
     padding-bottom: 20px;
    margin-left: 5px;
    border-radius: 20px;

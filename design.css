@@ -10,7 +10,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 4px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 .card2{
     padding-left: 170px;
@@ -44,7 +44,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .short{
-    right: 220px;
+    right: 180px;
     top: 10px;
     position: relative;
     background-color: red;
@@ -59,7 +59,7 @@ body{
 }
 
 .short2{
-    left: 120px;
+    left: 160px;
     bottom: 340px;
     position: relative;
     background-color: rgb(212, 15, 166);

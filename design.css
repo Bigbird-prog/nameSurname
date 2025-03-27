@@ -42,7 +42,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .short{
-    right: 315px;
+    right: 280px;
     top: 10px;
     position: relative;
     background-color: red;
@@ -58,7 +58,7 @@ body{
 }
 
 .short2{
-    left: 1px;
+    left: 60px;
     bottom: 340px;
     position: relative;
     background-color: rgb(212, 15, 166);

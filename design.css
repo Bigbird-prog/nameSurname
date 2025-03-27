@@ -8,19 +8,20 @@ body{
     display: grid;
     place-items: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 4px;
 }
 .card2{
     padding-left: 170px;
     background-color: transparent;
     position: relative;
-    width: 350px;
+    width: auto;
     height: 222px;
     /*background: var(--glass);*/
 }
 .card{
     background-color: bisque;
     position: relative;
-    width: 350px;
+    width: auto;
     height: 500px;
 }
 .input-icon {

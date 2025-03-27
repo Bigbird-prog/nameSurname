@@ -10,6 +10,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 4px;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .card2{
     padding-left: 170px;
@@ -43,7 +44,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .short{
-    right: 280px;
+    right: 220px;
     top: 10px;
     position: relative;
     background-color: red;
@@ -58,7 +59,7 @@ body{
 }
 
 .short2{
-    left: 60px;
+    left: 120px;
     bottom: 340px;
     position: relative;
     background-color: rgb(212, 15, 166);
@@ -107,8 +108,8 @@ body{
     color: brown;
 }
 .vale {
-        left: 400px;
-        bottom: 240px;
+        left: 200px;
+        bottom: 50px;
         position: relative;
         background-color: rgb(15, 212, 199);
         padding-right: 32px;

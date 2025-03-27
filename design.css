@@ -1,0 +1,150 @@
+.h1 {
+    color: bisque;
+    font-weight: bold;
+}
+body{
+    background-image: url('photo-1626785774573-4b799315345d.jpeg');
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card2{
+    padding-left: 170px;
+    background-color: transparent;
+    position: relative;
+    width: 350px;
+    height: 222px;
+    /*background: var(--glass);*/
+}
+.card{
+    background-color: bisque;
+    position: relative;
+    width: 350px;
+    height: 500px;
+}
+.input-icon {
+    height: 0cm;
+    width: 1em;
+    fill: #ffeba7;
+    size: 2cm;
+    width: 1px;
+    padding: 4px;
+   }
+.img1{
+    width: 120px;
+    border-radius: 300px;
+    border: none;
+}
+.p1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.short{
+    right: 460px;
+    top: 10px;
+    position: relative;
+    background-color: red;
+    padding-left: 10px;
+    
+   margin: 10px;
+   border-radius: 20px;
+   backdrop-filter: blur(15px);
+   border: 1px solid rgba(233, 19, 151, 0.479);
+   
+}
+
+.short2{
+    left: 1px;
+    bottom: 340px;
+    position: relative;
+    background-color: rgb(212, 15, 166);
+    padding-left: 30px;
+    padding-bottom: 20px;
+   margin-left: 5px;
+   border-radius: 20px;
+   backdrop-filter: blur(15px);
+   border: 1px solid rgb(255, 255, 255,0.2);
+   
+}
+.short:hover>.short2:not(:hover){
+    filter: blur(5px);
+}
+.short.short2:hover{
+    transform: scale(1.05);
+}
+.short:hover{
+    background-color: antiquewhite;
+    cursor: pointer;
+    transform: scale(30px);
+}
+
+.short2:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+}
+.lin{
+    padding: 10px;
+    left: 70px;
+    position: relative;
+    font-weight: bolder;
+    right: 230px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lin2{
+    padding: 10px;
+    left: 20px;
+    position: relative;
+    font-weight: bolder;
+    right: 230px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lin:hover{
+    color: brown;
+}
+.vale {
+        left: 400px;
+        bottom: 240px;
+        position: relative;
+        background-color: rgb(15, 212, 199);
+        padding-right: 32px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin: 20px;
+        border-radius: 20px;
+        align-items: center;
+}
+.vale:hover{
+    color: brown;
+}
+.form{
+    background-image: transparent;
+    backdrop-filter: blur(5px);
+    padding: 50px;
+    padding-left: 80px;
+}
+.text{
+    padding: 8px;
+    margin: 2px;
+    width: 100px;
+    height: 6px;
+    background-color: rgb(93, 69, 39);
+    border: none;
+    border-radius: 10px;
+    color:azure
+
+}
+.btn2 {
+    background-color: pink;
+    padding: 15px;
+    width: 140px;
+    border-radius: none;
+    border-radius: 20px;
+
+}
+.lab{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14pt;
+    color: #ffeba7;
+    font-weight: bolder;
+}

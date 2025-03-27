@@ -42,13 +42,13 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .short{
-    right: 460px;
+    right: 315px;
     top: 10px;
     position: relative;
     background-color: red;
     padding-left: 15px;
     margin-left: 30px;
-    left:230px
+    left: auto;
     
    margin: 10px;
    border-radius: 20px;
